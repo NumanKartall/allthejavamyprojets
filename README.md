@@ -1,2 +1,2 @@
-# all the java my projets
+# all the java my projects
  
