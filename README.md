@@ -1,2 +1,2 @@
-# all the java my mini projects
+# all the java my minimal projects
  
